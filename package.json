@@ -4,9 +4,7 @@
   "description": "A simple command to get external IP address",
   "main": "index.js",
   "private": true,
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "bin": {"canihazip": "./index.js"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leegphillips/canihazip.git"
