@@ -1,0 +1,23 @@
+{
+  "name": "canihazip",
+  "version": "0.1.0",
+  "description": "A simple command to get external IP address",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegphillips/canihazip.git"
+  },
+  "author": "Lee Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leegphillips/canihazip/issues"
+  },
+  "homepage": "https://github.com/leegphillips/canihazip#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
