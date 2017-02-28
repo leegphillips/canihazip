@@ -15,7 +15,7 @@ var req = http.get(options, (res) => {
   });
 
   res.on('end', () => {
-//    console.log('end')
+    process.exit(0);
   });
 });
 
